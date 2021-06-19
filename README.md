@@ -1,4 +1,4 @@
-# Call-REST-in-C-
+# Call-REST-in-CSharp
 Step by Step on how to call REST in C# 
 
 If you are wirting code everyday there is a hight chance that you need to use get or sent some information from one application to another and this means you need to call the api 
